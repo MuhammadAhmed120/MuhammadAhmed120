@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmed120&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmed120" /> </p>
 
-- 🌱 I’m currently learning **Javascript Frameworks.**
+- 🌱 I’m currently learning **React Native.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadAhmed120](https://github.com/MuhammadAhmed120)
 
